@@ -4,7 +4,7 @@
 A quick portfolio made with HTML, CSS Flex, Grid and some Bootstrap.
 
 ## Link to live site.
-https://sophiaellis-dot.github.io/My-portfolio/index.html
+https://sophiaellis-dot.github.io/My-Portfolio/index.html
 
 # Photos of portfoilio
 
